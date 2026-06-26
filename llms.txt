@@ -6,7 +6,6 @@ Zenventora is a product-focused partnership agency helping SaaS startups, softwa
 - Canonical URL: https://zenventora.in/
 - Privacy Policy: https://zenventora.in/privacy-policy.html
 - Terms and Conditions: https://zenventora.in/terms-and-conditions.html
-- Contact Form: https://zenventora.in/contact.html
 - Primary language: English
 - Service area: India
 

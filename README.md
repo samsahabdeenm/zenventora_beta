@@ -9,8 +9,7 @@ Single-page responsive website template for **Zenventora**, a product-focused pa
 - Mobile menu, enquiry drawer, and placeholder form behavior (`script.js`)
 - SEO metadata, canonical URL, Open Graph, Twitter Card, Organization schema, ContactPoint schema, and FAQ schema
 - Partner company placeholder cards for logo, company name, category, and description
-- Zoho Forms contact page (`contact.html`) embedded through a responsive iframe
-- Contact page: `contact.html`
+- Contact form and floating side enquiry form placeholders
 - Legal pages: `privacy-policy.html` and `terms-and-conditions.html`
 - Relative interlinking for same-folder hosting
 - `robots.txt`, `sitemap.xml`, `llms.txt`, `site.webmanifest`
@@ -22,7 +21,7 @@ Single-page responsive website template for **Zenventora**, a product-focused pa
 2. Partner company logos, names, categories, and descriptions in the `#partners` section
 3. Phone / WhatsApp number `8072009245`
 4. Email addresses `support@zenventory.in` and `Sales@zenventory.in`
-5. Zoho Forms iframe URL in `contact.html` if the form changes
+5. Form `action="#"` attributes with the final working form endpoint
 6. Privacy Policy and Terms & Conditions content/details if your legal team provides final wording
 7. `assets/og-image.svg` if a branded social image is available
 
